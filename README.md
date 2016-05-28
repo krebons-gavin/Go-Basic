@@ -1,5 +1,3 @@
-hello-js
-========
+Go Language Basic Learning
 
-Javascript test
-20140417
+// 2016-05-28, Created by Gavin
